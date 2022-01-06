@@ -1,8 +1,10 @@
-# demo on csgo auto-aim
+# Demo on csgo auto-aim
 
 main libraries:
 
 1. pytorch - yolov5s6
+   1. to find the person in the screenshots
+
 2. win32api 
    1. to control the keyboard and mouse
    2. to grab the screenshots
